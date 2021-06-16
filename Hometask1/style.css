@@ -1,0 +1,22 @@
+h1{
+    color: white;
+    background-color: gray;
+    padding: 20px 0;
+}
+img{
+    width: 450px;
+
+}
+footer{
+    background-color: gray;
+}
+footer img{
+    width: 40px;
+}
+table , th , td{
+    border: 3px black solid;
+    border-collapse: collapse;
+}
+th{
+    text-align: left;
+}
